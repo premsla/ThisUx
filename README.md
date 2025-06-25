@@ -32,7 +32,6 @@
 
 ### 🗂 Filtering & Sorting
 - Filter by idea status
-- Sort by date (optional)
 - Color-coded tags
 
 ## Folder Structure
